@@ -1,7 +1,7 @@
 # Placement_db
 A CRUD website to store and generate pdfs of dynamically user fed client details
 
-## How to run
+# How to run
 ### Clone Repository
 ### To run the mobile app:
 - Fire up your android emulator
